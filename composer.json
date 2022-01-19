@@ -65,5 +65,11 @@
       "dev-master": "5.0.x-dev"
     }
   },
-  "prefer-stable": true
+  "prefer-stable": true,
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/ValentinBV/GraphQLBundle.git"
+    }
+  ]
 }
